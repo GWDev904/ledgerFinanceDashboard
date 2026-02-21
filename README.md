@@ -59,4 +59,4 @@ src/
 
 ---
 
-*Part of a 3-project React portfolio. See also: [Focus Task Manager](https://focus-task-manager.vercel.app/) · [Community Feed](#)*
+*Part of a 3-project React portfolio. See also: [Focus Task Manager](https://focus-task-manager.vercel.app/) · [Community Feed](https://nexus-community-feed.vercel.app/)*
