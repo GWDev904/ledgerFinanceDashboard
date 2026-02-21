@@ -1,0 +1,31 @@
+export const transactions = [
+  { id: 1, date: "2026-02-01", description: "Salary", amount: 4200, type: "income", category: "Work" },
+  { id: 2, date: "2026-02-02", description: "Rent", amount: -1200, type: "expense", category: "Housing" },
+  { id: 3, date: "2026-02-03", description: "Groceries", amount: -87, type: "expense", category: "Food" },
+  { id: 4, date: "2026-02-04", description: "Netflix", amount: -18, type: "expense", category: "Entertainment" },
+  { id: 5, date: "2026-02-05", description: "Freelance Project", amount: 650, type: "income", category: "Work" },
+  { id: 6, date: "2026-02-06", description: "Electricity Bill", amount: -92, type: "expense", category: "Utilities" },
+  { id: 7, date: "2026-02-07", description: "Coffee Shop", amount: -24, type: "expense", category: "Food" },
+  { id: 8, date: "2026-02-08", description: "Gym Membership", amount: -45, type: "expense", category: "Health" },
+  { id: 9, date: "2026-02-10", description: "Dinner Out", amount: -68, type: "expense", category: "Food" },
+  { id: 10, date: "2026-02-11", description: "Amazon", amount: -134, type: "expense", category: "Shopping" },
+  { id: 11, date: "2026-02-12", description: "Uber", amount: -22, type: "expense", category: "Transport" },
+  { id: 12, date: "2026-02-13", description: "Internet Bill", amount: -60, type: "expense", category: "Utilities" },
+  { id: 13, date: "2026-02-14", description: "Side Project Sale", amount: 320, type: "income", category: "Work" },
+  { id: 14, date: "2026-02-15", description: "Clothing", amount: -110, type: "expense", category: "Shopping" },
+  { id: 15, date: "2026-02-17", description: "Groceries", amount: -95, type: "expense", category: "Food" },
+  { id: 16, date: "2026-02-18", description: "Spotify", amount: -10, type: "expense", category: "Entertainment" },
+  { id: 17, date: "2026-02-19", description: "Doctor Visit", amount: -40, type: "expense", category: "Health" },
+  { id: 18, date: "2026-02-20", description: "Gas", amount: -55, type: "expense", category: "Transport" },
+];
+
+export const CATEGORY_COLORS = {
+  Housing: "#7c6af5",
+  Food: "#4ade80",
+  Entertainment: "#f472b6",
+  Utilities: "#60a5fa",
+  Health: "#34d399",
+  Shopping: "#facc15",
+  Transport: "#fb923c",
+  Work: "#a3e635",
+};
