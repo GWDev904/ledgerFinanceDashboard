@@ -2,7 +2,7 @@
 
 A sleek personal finance dashboard built with React. Track your income, expenses, and spending habits across categories — all from a clean, data-rich interface.
 
-**[🚀 Live Demo](https://your-vercel-url.vercel.app)** &nbsp;|&nbsp; Built by [Garrett Walker](https://github.com/GWDev904)
+**[🚀 Live Demo](https://ledger-finance-dashboard.vercel.app/)** &nbsp;|&nbsp; Built by [Garrett Walker](https://github.com/GWDev904)
 
 ---
 
@@ -59,4 +59,4 @@ src/
 
 ---
 
-*Part of a 3-project React portfolio. See also: [Focus Task Manager](#) · [Community Feed](#)*
+*Part of a 3-project React portfolio. See also: [Focus Task Manager](https://focus-task-manager.vercel.app/) · [Community Feed](#)*
