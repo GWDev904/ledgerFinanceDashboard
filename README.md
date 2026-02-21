@@ -4,7 +4,11 @@ A sleek personal finance dashboard built with React. Track your income, expenses
 
 **[🚀 Live Demo](https://ledger-finance-dashboard.vercel.app/)** &nbsp;|&nbsp; Built by [Garrett Walker](https://github.com/GWDev904)
 
----
+<br />
+
+![Ledger Finance Dashboard Preview](preview.png)
+
+<br />
 
 ## Features
 
